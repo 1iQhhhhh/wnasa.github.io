@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wnasa.com/sitemap.xml
